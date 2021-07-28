@@ -1,0 +1,14 @@
+C:\Users\danil\OneDrive\Escritorio\Prueba Practica 1\IntentoPrueba2\Intento2\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\danil\OneDrive\Escritorio\Prueba Practica 1\IntentoPrueba2\Intento2\Servidor\bin\Debug\Servidor.exe
+C:\Users\danil\OneDrive\Escritorio\Prueba Practica 1\IntentoPrueba2\Intento2\Servidor\bin\Debug\Servidor.pdb
+C:\Users\danil\OneDrive\Escritorio\Prueba Practica 1\IntentoPrueba2\Intento2\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Escritorio\Prueba Practica 1\IntentoPrueba2\Intento2\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Escritorio\Prueba Practica 1\IntentoPrueba2\Intento2\Servidor\obj\Debug\Servidor.exe
+C:\Users\danil\OneDrive\Escritorio\Prueba Practica 1\IntentoPrueba2\Intento2\Servidor\obj\Debug\Servidor.pdb
+C:\Users\danil\OneDrive\Escritorio\Prueba Practica 1\IntentoPrueba2\Intento3\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\danil\OneDrive\Escritorio\Prueba Practica 1\IntentoPrueba2\Intento3\Servidor\bin\Debug\Servidor.exe
+C:\Users\danil\OneDrive\Escritorio\Prueba Practica 1\IntentoPrueba2\Intento3\Servidor\bin\Debug\Servidor.pdb
+C:\Users\danil\OneDrive\Escritorio\Prueba Practica 1\IntentoPrueba2\Intento3\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Escritorio\Prueba Practica 1\IntentoPrueba2\Intento3\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Escritorio\Prueba Practica 1\IntentoPrueba2\Intento3\Servidor\obj\Debug\Servidor.exe
+C:\Users\danil\OneDrive\Escritorio\Prueba Practica 1\IntentoPrueba2\Intento3\Servidor\obj\Debug\Servidor.pdb
